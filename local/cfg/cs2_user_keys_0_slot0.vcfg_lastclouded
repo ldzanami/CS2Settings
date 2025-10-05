@@ -4,7 +4,7 @@
 	{
 		"c"		"+voicerecord"
 		"MOUSE4"		"<unbound>"
-		"MOUSE1"		"+attack;r_cleardecals"
+		"MOUSE1"		"+attack"
 		"h"		"<unbound>"
 		"x"		"slot12"
 		"v"		"switchhands"
@@ -22,5 +22,6 @@
 		"d"		"+right"
 		"SPACE"		"+jump"
 		"0"		"give weapon_m4a1_silencer"
+		"CTRL"		"+duck"
 	}
 }
